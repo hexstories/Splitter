@@ -1,0 +1,3 @@
+tinydb
+ffmpeg-python
+subprocess32
