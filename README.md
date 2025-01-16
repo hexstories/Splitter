@@ -1,5 +1,3 @@
-# My Python Project
-
 This project is designed to retrieve metadata from movie files and split them into segments. It utilizes `ffprobe` for metadata extraction and `ffmpeg` for video processing.
 
 ## Project Structure
