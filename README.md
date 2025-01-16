@@ -9,9 +9,9 @@ my-python-project
 ├── src
 │   ├── main.py          # Entry point of the application
 │   ├── utils
-│   │   ├── __init__.py  # Marks the utils directory as a package
-│   │   ├── metadata.py   # Contains function to get movie metadata
-│   │   └── split.py      # Contains function to split movies into segments
+│   │   ├──  # Marks the utils directory as a package
+│   │   ├movie_split.py   # Contains function to get movie metadata
+│   │   └──      # Contains function to split movies into segments
 ├── requirements.txt      # Lists project dependencies
 └── README.md             # Documentation for the project
 ```
